@@ -1,6 +1,6 @@
 # HmongTributePage
 
-Link to project webpage: https://wi11iamy.github.io/HmongTributePage/
+Link to project webpage: https://williammyang.github.io/HmongTributePage/
 <br />(Right Click to open on a new tab)
 
 This is my first project self teaching myself web development. This project is based off of freeCodeCamp.org's web design certification. 
